@@ -1,5 +1,3 @@
-# Mikko Evangelista — Portfolio 2025
-
 Single-page portfolio built with React, Vite, and Tailwind CSS. The layout highlights profile, work experience, and self-reflection sections with smooth slide-in animations, a gradient backdrop, and an always-available section navigator.
 
 ## Tech stack
